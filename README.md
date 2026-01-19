@@ -11,7 +11,7 @@
 
 Tujuan: Mengautentikasi pengguna sebelum masuk ke aplikasi.
 
-Komponen UI:
+*Komponen UI*:
 
 - Input Nama Pengguna
 
@@ -19,7 +19,7 @@ Komponen UI:
 
 - Tombol Login
 
-Alur:
+*Alur*:
 
 - Pengguna memasukkan nama pengguna dan password
 
@@ -29,13 +29,13 @@ Alur:
 
 Tujuan: Menampilkan daftar resep yang tersedia.
 
-Komponen UI:
+*Komponen UI*:
 
 - List resep (contoh: Tumis Kangkung, Kue Cubit, Martabak Mini)
 
 - Tombol Tambah Resep
 
-Alur:
+*Alur*:
 
 - Pengguna memilih salah satu resep → menuju Halaman Detail Resep
 
@@ -61,40 +61,51 @@ Tujuan: Menampilkan informasi lengkap dari resep yang dipilih.
 
 - Pengguna menekan Edit Resep → menuju Halaman Edit Resep
 
-4. Halaman Edit Resep
+4. *Halaman Edit Resep*
 
 Tujuan: Mengubah data resep yang sudah ada.
 
-Komponen UI:
+*Komponen UI*:
 
-Form edit bahan-bahan
+- Form edit bahan-bahan
 
-Form edit langkah-langkah
+- Form edit langkah-langkah
 
-Tombol Simpan Perubahan
+- Tombol Simpan Perubahan
 
-Alur:
+*Alur*:
 
-Pengguna mengubah data resep
+- Pengguna mengubah data resep
 
-Menekan Simpan Perubahan → kembali ke Halaman Detail Resep
+- Menekan Simpan Perubahan → kembali ke Halaman Detail Resep
 
-5. Halaman Tambah Resep
+5. *Halaman Tambah Resep*
 
 Tujuan: Menambahkan resep baru ke dalam aplikasi.
 
-Komponen UI:
+*Komponen UI*:
 
-Input Nama Resep
+- Input Nama Resep
 
-Input Bahan-bahan
+- Input Bahan-bahan
 
-Input Langkah-langkah
+- Input Langkah-langkah
 
-Tombol Simpan
+- Tombol Simpan
 
-Alur:
+*Alur*:
 
-Pengguna mengisi form resep baru
+- Pengguna mengisi form resep baru
 
-Menekan Simpan → kembali ke Halaman Daftar Resep
+- Menekan Simpan → kembali ke Halaman Daftar Resep
+
+## Mockup
+<img width="1071" height="490" alt="Screenshot 2026-01-19 105218" src="https://github.com/user-attachments/assets/dcb587df-e12c-44b3-89e3-867276294ec1" />
+
+## UI
+<img width="1028" height="703" alt="Screenshot 2026-01-19 110717" src="https://github.com/user-attachments/assets/30178e71-7760-4a88-9fa9-14c9caafa465" />
+
+## UX
+https://youtube.com/@sovyaprianti818?si=D57Lh6jROGqJZR9G
+
+
